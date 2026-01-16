@@ -1,4 +1,4 @@
-# Introduction to Programming – Final Assignment
+# Fundamentals of Computer Programming – Final Assignment
 This repository provides Python solutions for Task 1 and Task 2 of the final assignment, highlighting input validation, conditional statements, loops, and basic computational logic.
 # Task 1: Beckett Pizza Plaza 4-for-3 Offer
 
