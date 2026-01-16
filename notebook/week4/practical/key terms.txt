@@ -1,0 +1,25 @@
+A Python file containing functions, classes, and variables that can be imported and reused.
+
+Python Standard Library
+
+A collection of built-in modules included with every Python installation.
+
+Formal Parameters
+
+The variable names listed in a function definition.
+
+Actual Parameters (Arguments)
+
+The real values passed to the function when calling it.
+
+Default Arguments
+
+Parameters that have preset values if no argument is passed.
+
+Keyword Arguments
+
+Arguments passed using the parameter name (e.g., x=5).
+
+Lambda Expression
+
+A small anonymous function defined using the keyword lambda.
